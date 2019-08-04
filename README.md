@@ -15,3 +15,16 @@ python qq轰炸源代码
 
 I like python.
 hello world!
+
+
+# 另附：
+
+请查看333.png中的内容。
+
+我无法上传打包完成的exe
+
+微云链接：https://share.weiyun.com/5vptXpk
+
+Thank you for reading!
+
+23333
